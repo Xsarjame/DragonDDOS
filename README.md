@@ -10,7 +10,7 @@ git clone https://github.com/Xsarjame/DragonDDOS
 
 cd DragonDDOS
 
-perl DragonDDOS.pl
+python2 DragonDDOS.py
 
 !!!!!!!!!!!!!!!ใช้เพื่อการศึกษาหากเกิดคดีความขอไม่รับผิดชอบ ใดๆทั้งสิ้น !!!!!!!!!!!!!!
 
