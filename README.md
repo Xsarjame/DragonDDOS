@@ -1,6 +1,6 @@
 # DragonDDOS
 
-![image](https://user-images.githubusercontent.com/96361084/154791166-ffedb428-6d98-4e52-87a7-ca958cbc5bff.png)
+![image](https://user-images.githubusercontent.com/96361084/155261996-d09545ac-abff-4064-9fd2-7cb44fcaa0d5.png)
 
 sudo apt-get install git
 
