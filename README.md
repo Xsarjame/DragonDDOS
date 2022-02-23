@@ -10,7 +10,7 @@ git clone https://github.com/Xsarjame/DragonDDOS
 
 cd DragonDDOS
 
-python2 DragonDDOS.py
+python2 dragonDDOS.py http://www.navinbcc.com
 
 !!!!!!!!!!!!!!!ใช้เพื่อการศึกษาหากเกิดคดีความขอไม่รับผิดชอบ ใดๆทั้งสิ้น !!!!!!!!!!!!!!
 
